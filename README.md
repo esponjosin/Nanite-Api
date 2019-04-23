@@ -34,4 +34,4 @@ Info:
 ==============
 Estas interesado en usar la api y quieres obtener la token?
 Al ingresar al servidor de soporte se te entregara una token unica
-[[Discord]](https://discord.gg/6DJxrSZ)
+[[Discord]](https://discord.gg/TaSBW7u)
