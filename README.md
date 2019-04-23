@@ -10,7 +10,6 @@ Endpoints:
 | hug      | Token     | Resiviras una imagen (Tendras que usar Buffer)              .|
 | kiss     | Token     | Resiviras una imagen (Tendras que usar Buffer)              .|
 | cuddle   | Token     | Resiviras una imagen (Tendras que usar Buffer)              .|
-| neko     | Token     | Resiviras una imagen (Tendras que usar Buffer)              .|
 | poke     | Token     | Resiviras una imagen (Tendras que usar Buffer)              .|
 | meow     | Token     | Resiviras una imagen (Tendras que usar Buffer)              .|
 | smug     | Token     | Resiviras una imagen (Tendras que usar Buffer)              .|
